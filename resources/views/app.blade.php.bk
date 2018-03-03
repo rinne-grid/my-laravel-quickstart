@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="ja">
+    <head>
+        <meta charset="utf-8">
+        <title>Laravel Quickstart</title>
+    </head>
+    <body>
+        <div class="container">
+            <nav class="navbar navbar-default">
+            </nav>
+        </div>
+
+        @yield('content')
+    </body>
+</html>
